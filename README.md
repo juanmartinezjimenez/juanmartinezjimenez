@@ -24,6 +24,7 @@ TypeScript · Python · PostgreSQL · Docker · n8n · Astro · Next.js · GitHu
 
 | Proyecto | Qué es |
 | --- | --- |
+| [agent-evals](https://github.com/juanmartinezjimenez/agent-evals) | Evaluación de agentes LLM con casos de prueba en YAML: puntúa cada respuesta, explica los fallos y bloquea la CI si la calidad baja del umbral. Python, Pydantic, uv |
 | [delivery-playbook](https://github.com/juanmartinezjimenez/delivery-playbook) | Mi metodología de trabajo: cinco fases, plantillas de diagnóstico, propuesta y traspaso, y checklists para poner en producción sistemas con IA |
 | [repo-template](https://github.com/juanmartinezjimenez/repo-template) | Plantilla base de todos mis proyectos: CI, control de secretos con gitleaks, ADRs y convenciones |
 
