@@ -20,6 +20,11 @@ Primero el proceso de negocio y después la tecnología. La IA solo entra cuando
 
 TypeScript · Python · PostgreSQL · Docker · n8n · Astro · Next.js · GitHub Actions
 
-## En este perfil
+## Proyectos
 
-Perfil nuevo. Aquí iré publicando proyectos propios y casos de estudio de trabajos reales, siempre sin código ni datos de clientes.
+| Proyecto | Qué es |
+| --- | --- |
+| [delivery-playbook](https://github.com/juanmartinezjimenez/delivery-playbook) | Mi metodología de trabajo: cinco fases, plantillas de diagnóstico, propuesta y traspaso, y checklists para poner en producción sistemas con IA |
+| [repo-template](https://github.com/juanmartinezjimenez/repo-template) | Plantilla base de todos mis proyectos: CI, control de secretos con gitleaks, ADRs y convenciones |
+
+Iré añadiendo proyectos propios y casos de estudio de trabajos reales, siempre sin código ni datos de clientes.
