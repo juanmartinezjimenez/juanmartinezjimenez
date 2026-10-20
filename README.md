@@ -25,6 +25,7 @@ TypeScript · Python · PostgreSQL · Docker · n8n · Astro · Next.js · GitHu
 | Proyecto | Qué es |
 | --- | --- |
 | [agent-evals](https://github.com/juanmartinezjimenez/agent-evals) · [v0.4.0](https://github.com/juanmartinezjimenez/agent-evals/releases/tag/v0.4.0) | Evaluación de agentes LLM con casos de prueba en YAML, también conversaciones de varios turnos: puntúa cada respuesta, explica los fallos y compara dos ejecuciones caso a caso para detectar regresiones. Incluye una GitHub Action que comenta el resultado en cada PR y detecta grabaciones desactualizadas. Python, Pydantic, uv, GitHub Actions |
+| [mcp-workspace](https://github.com/juanmartinezjimenez/mcp-workspace) · [v0.1.0](https://github.com/juanmartinezjimenez/mcp-workspace/releases/tag/v0.1.0) | Servidor MCP que da a un agente acceso a una carpeta de notas Markdown y una lista de tareas: solo lectura por defecto, cada escritura se habilita por su nombre y un sandbox de rutas impide salir de la carpeta, también en Windows. Probado en Linux y Windows con un cliente MCP real. TypeScript, MCP SDK, Zod, Vitest |
 | [delivery-playbook](https://github.com/juanmartinezjimenez/delivery-playbook) | Mi metodología de trabajo: cinco fases, plantillas de diagnóstico, propuesta y traspaso, y checklists para poner en producción sistemas con IA |
 | [repo-template](https://github.com/juanmartinezjimenez/repo-template) | Plantilla base de todos mis proyectos: CI, control de secretos con gitleaks, ADRs y convenciones |
 
